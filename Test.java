@@ -2,6 +2,8 @@ import java.util.HashMap;
 import java.util.Map;
 public class Test {
      public static void main(String[] args) {
+          int[] nums = {5, 6, 7, 8, 9};
+          int k = 5;
           Map<Integer,Integer>mp = new HashMap<>();
            mp.put(0,1);
            int xr = 0;
